@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shweta Sharma</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<h3 align="center">A passionate Cloud Engineer</h3>
 
 
-- 🌱 I’m currently learning **Deep Learning, Generative AI**
+- 🌱 I’m currently learning **Microsoft Azure AZ-104**
 
-- 💬 Ask me about **Python , Machine learning , Data Science**
+- 💬 Ask me about **Java, Cloud Fundamentals**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
